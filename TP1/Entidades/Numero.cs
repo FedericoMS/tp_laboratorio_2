@@ -42,13 +42,15 @@ namespace Entidades
 
         #endregion
 
-
+        #region Setters
+        /// <summary>
+        /// SetNumero permite setear un número validado previamente en el atributo numero
+        /// </summary>
         public string SetNumero
         {
-            //get { return myVar; }
             set { numero = ValidarNumero(value); }
         }
-
+        #endregion
 
 
         #region Métodos
@@ -93,7 +95,8 @@ namespace Entidades
         /// <returns> Un string </returns>
         public string DecimalBinario(double numero)
         {
-            int nro = (int)numero;
+            //EVALUAR SI QUITAR EL ABS O NO
+            int nro = (int)Math.Abs(numero);
             int resultado;
             string resto = null;
             while (nro >= 2)
