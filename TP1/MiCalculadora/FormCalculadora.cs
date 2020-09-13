@@ -18,6 +18,7 @@ namespace MiCalculadora
         {
             InitializeComponent();
             this.StartPosition = FormStartPosition.CenterScreen;
+            
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -27,8 +28,12 @@ namespace MiCalculadora
 
         private void btnOperar_Click(object sender, EventArgs e)
         {
-            double resultado = FormCalculadora.Operar(this.txtNumero1.Text, this.txtNumero2.Text, this.cmbOperador.Text);
-            this.lblResultado.Text = resultado.ToString();
+            if(String.IsNullOrWhiteSpace(cmbOperador.Text) == false)
+            {
+                double resultado = FormCalculadora.Operar(this.txtNumero1.Text, this.txtNumero2.Text, this.cmbOperador.Text);
+                this.lblResultado.Text = resultado.ToString();
+            }
+            
         }
 
         private void btnCerrar_Click(object sender, EventArgs e)
@@ -52,9 +57,11 @@ namespace MiCalculadora
 
         private void btnConvertirABinario_Click(object sender, EventArgs e)
         {
-            Numero nro1 = new Numero();
-            this.lblResultado.Text = nro1.DecimalBinario(this.lblResultado.Text);
-
+            if (this.lblResultado.Text != "")
+            {
+                Numero nro1 = new Numero();
+                this.lblResultado.Text = nro1.DecimalBinario(this.lblResultado.Text);
+            }
         }
 
 
@@ -62,7 +69,7 @@ namespace MiCalculadora
         {
             this.txtNumero1.Clear();
             this.txtNumero2.Clear();
-            this.cmbOperador.Text = "";
+            this.cmbOperador.SelectedIndex = 0;
             this.lblResultado.Text = "";
 
         }
