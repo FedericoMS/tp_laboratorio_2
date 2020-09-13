@@ -95,8 +95,7 @@ namespace Entidades
         /// <returns> Un string </returns>
         public string DecimalBinario(double numero)
         {
-            //EVALUAR SI QUITAR EL ABS O NO
-            int nro = (int)Math.Abs(numero);
+            int nro = (int)numero;
             int resultado;
             string resto = null;
             while (nro >= 2)
@@ -118,7 +117,7 @@ namespace Entidades
         public string DecimalBinario(string numero)
         {
             string retorno = "Valor inválido";
-            if(numero[0] != 0)
+            if (double.Parse(numero) > 0)
             {
                 retorno = this.DecimalBinario(double.Parse(numero));
             }
