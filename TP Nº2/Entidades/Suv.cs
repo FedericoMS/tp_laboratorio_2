@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace Entidades
 {
+    /// <summary>
+    /// Clase Suv heredada de Vehiculo
+    /// </summary>
     public class Suv : Vehiculo
     {
 

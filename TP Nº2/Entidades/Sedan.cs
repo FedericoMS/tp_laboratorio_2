@@ -8,6 +8,9 @@ using System.Drawing;
 
 namespace Entidades
 {
+    /// <summary>
+    /// Clase Sedan heredada de Vehiculo
+    /// </summary>
     public class Sedan : Vehiculo
     {
         #region "Atributos"

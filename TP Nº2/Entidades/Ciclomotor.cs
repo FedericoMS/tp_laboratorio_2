@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 
 namespace Entidades
 {
+    /// <summary>
+    /// Clase Ciclomotor heredada de Vehiculo
+    /// </summary>
     public class Ciclomotor : Vehiculo
     {
         #region "Constructores"
