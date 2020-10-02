@@ -37,7 +37,7 @@ namespace Entidades
         }
         #endregion
 
-        #region "Métodos"
+         #region "Métodos"
         /// <summary>
         /// Override de Mostrar() para los datos de Ciclomotor
         /// </summary>
@@ -48,7 +48,7 @@ namespace Entidades
 
             sb.AppendLine("CICLOMOTOR");
             sb.AppendLine(base.Mostrar());
-            sb.AppendFormat("TAMAÑO : {0}", this.Tamanio).AppendLine();
+            sb.AppendFormat("TAMAÑO : {0}\n", this.Tamanio);
             sb.AppendLine("");
             sb.AppendLine("---------------------");
 
