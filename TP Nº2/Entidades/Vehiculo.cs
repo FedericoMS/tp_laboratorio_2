@@ -92,6 +92,31 @@ namespace Entidades
         {
             return !(v1 == v2);
         }
+
+        /// <summary>
+        /// Método equals para quitar el warning del compilador. Compara si (vehículo)obj es igual a this
+        /// </summary>
+        /// <param name="obj"></param>
+        /// <returns> un bool </returns>
+        public override bool Equals(object obj)
+        {
+            bool rta = false;
+            if(obj is Vehiculo)
+            {
+                rta = this == (Vehiculo)obj;
+            }
+            return rta;
+        }
+
+        /// <summary>
+        /// Método override GetHasCode para quitar el warning del compilador
+        /// </summary>
+        /// <returns> base.GetHashCode() </returns>
+        public override int GetHashCode()
+        {
+            return base.GetHashCode();
+        }
+
         #endregion
 
         #region "Enumerados"
