@@ -11,7 +11,7 @@ namespace Entidades
     /// </summary>
     public sealed class Taller
     {
-        #region Atributos
+        #region "Atributos"
         List<Vehiculo> vehiculos;
         int espacioDisponible;
         #endregion
