@@ -19,6 +19,31 @@ namespace Entidades
 
         #endregion
 
+        #region "Enumerados"
+        /// <summary>
+        /// Enumerado EMarca que contiene marcas
+        /// </summary>
+        public enum EMarca
+        {
+            Chevrolet,
+            Ford,
+            Renault,
+            Toyota,
+            BMW,
+            Honda,
+            HarleyDavidson
+        }
+        /// <summary>
+        /// Enumerado ETamanio que contiene distintos tamaños
+        /// </summary>
+        public enum ETamanio
+        {
+            Chico,
+            Mediano,
+            Grande
+        }
+        #endregion
+
         #region "Constructores"
         /// <summary>
         /// Constructor de vehículo
@@ -34,23 +59,11 @@ namespace Entidades
         }
         #endregion
 
-
         #region "Propiedades"
         /// <summary>
         /// ReadOnly: Retornará el tamaño
         /// </summary>
         public abstract ETamanio Tamanio { get; }
-        #endregion
-
-        #region "Métodos"
-        /// <summary>
-        /// Publica todos los datos del Vehiculo.
-        /// </summary>
-        /// <returns></returns>
-        public virtual string Mostrar()
-        {
-            return (string)this;
-        }
         #endregion
 
         #region "Sobrecargas"
@@ -101,7 +114,7 @@ namespace Entidades
         public override bool Equals(object obj)
         {
             bool rta = false;
-            if(obj is Vehiculo)
+            if (obj is Vehiculo)
             {
                 rta = this == (Vehiculo)obj;
             }
@@ -119,28 +132,14 @@ namespace Entidades
 
         #endregion
 
-        #region "Enumerados"
+        #region "Métodos"
         /// <summary>
-        /// Enumerado EMarca que contiene marcas
+        /// Publica todos los datos del Vehiculo.
         /// </summary>
-        public enum EMarca
+        /// <returns></returns>
+        public virtual string Mostrar()
         {
-            Chevrolet,
-            Ford,
-            Renault,
-            Toyota,
-            BMW,
-            Honda,
-            HarleyDavidson
-        }
-        /// <summary>
-        /// Enumerado ETamanio que contiene distintos tamaños
-        /// </summary>
-        public enum ETamanio
-        {
-            Chico,
-            Mediano,
-            Grande
+            return (string)this;
         }
         #endregion
 

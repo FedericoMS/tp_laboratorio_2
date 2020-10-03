@@ -13,8 +13,20 @@ namespace Entidades
     /// </summary>
     public class Sedan : Vehiculo
     {
+        
         #region "Atributos"
         ETipo tipo;
+        #endregion
+
+        #region "Enumerados"
+        /// <summary>
+        /// Enumerado Etipo que contiene "CuatroPuertas" y "CincoPuertas"
+        /// </summary>
+        public enum ETipo
+        {
+            CuatroPuertas,
+            CincoPuertas
+        }
         #endregion
 
         #region "Constructores"
@@ -76,15 +88,5 @@ namespace Entidades
 
         #endregion
 
-        #region "Enumerados"
-        /// <summary>
-        /// Enumerado Etipo que contiene "CuatroPuertas" y "CincoPuertas"
-        /// </summary>
-        public enum ETipo
-        {
-            CuatroPuertas,
-            CincoPuertas
-        }
-        #endregion
     }
 }

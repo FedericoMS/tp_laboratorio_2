@@ -11,7 +11,7 @@ namespace Entidades
     /// </summary>
     public class Suv : Vehiculo
     {
-
+        
         #region "Constructores"
         /// <summary>
         /// Constructor por defecto de Suv
@@ -55,5 +55,6 @@ namespace Entidades
             return sb.ToString();
         }
         #endregion
+
     }
 }

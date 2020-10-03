@@ -12,6 +12,7 @@ namespace Entidades
     /// </summary>
     public class Ciclomotor : Vehiculo
     {
+       
         #region "Constructores"
         /// <summary>
         /// Constructor de Ciclomotor
@@ -37,7 +38,7 @@ namespace Entidades
         }
         #endregion
 
-         #region "Métodos"
+        #region "Métodos"
         /// <summary>
         /// Override de Mostrar() para los datos de Ciclomotor
         /// </summary>
@@ -55,5 +56,6 @@ namespace Entidades
             return sb.ToString();
         }
         #endregion 
+
     }
 }

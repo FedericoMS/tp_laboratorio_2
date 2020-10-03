@@ -16,6 +16,19 @@ namespace Entidades
         int espacioDisponible;
         #endregion
 
+        #region "Enumerados"
+        /// <summary>
+        /// Enumerado ETipo que contiene "Ciclomotor", "Sedan", "SUV" y "TODOS"
+        /// </summary>
+        public enum ETipo
+        {
+            Ciclomotor,
+            Sedan,
+            SUV,
+            Todos
+        }
+        #endregion
+
         #region "Constructores"
 
         /// <summary>
@@ -144,17 +157,5 @@ namespace Entidades
         }
         #endregion
 
-        #region "Enumerados"
-        /// <summary>
-        /// Enumerado ETipo que contiene "Ciclomotor", "Sedan", "SUV" y "TODOS"
-        /// </summary>
-        public enum ETipo
-        {
-            Ciclomotor,
-            Sedan,
-            SUV,
-            Todos
-        }
-        #endregion
     }
 }
