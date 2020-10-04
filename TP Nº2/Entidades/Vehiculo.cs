@@ -75,10 +75,9 @@ namespace Entidades
         {
             StringBuilder sb = new StringBuilder();
 
-            //REVISAR SI FALTAN APPENDLINES AL FINAL
-            sb.AppendFormat("CHASIS: {0}\r\n", p.chasis);
-            sb.AppendFormat("MARCA : {0}\r\n", p.marca.ToString());
-            sb.AppendFormat("COLOR : {0}\r\n", p.color.ToString());
+            sb.AppendLine($"CHASIS: {p.chasis}");
+            sb.AppendLine($"MARCA: {p.marca.ToString()}");
+            sb.AppendLine($"COLOR: {p.color.ToString()}");
             sb.AppendLine("---------------------");
 
             return sb.ToString();

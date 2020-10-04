@@ -72,8 +72,7 @@ namespace Entidades
         public static string Listar(Taller taller, ETipo tipo)
         {
             StringBuilder sb = new StringBuilder();
-
-            sb.AppendFormat("Tenemos {0} lugares ocupados de un total de {1} disponibles", taller.vehiculos.Count(), taller.espacioDisponible);
+            sb.AppendLine($"Tenemos {taller.vehiculos.Count()} lugares ocupados de un total de {taller.espacioDisponible} disponibles");
             sb.AppendLine("");
             foreach (Vehiculo v in taller.vehiculos)
             {
