@@ -1,0 +1,18 @@
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\TP Nº3\Soria.Federico.2A.TP3\Clases Abstractas\bin\Debug\Clases Abstractas.dll
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\TP Nº3\Soria.Federico.2A.TP3\Clases Abstractas\bin\Debug\Clases Abstractas.pdb
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\TP Nº3\Soria.Federico.2A.TP3\Clases Abstractas\bin\Debug\Excepciones.dll
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\TP Nº3\Soria.Federico.2A.TP3\Clases Abstractas\bin\Debug\Excepciones.pdb
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\TP Nº3\Soria.Federico.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csprojAssemblyReference.cache
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\TP Nº3\Soria.Federico.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CoreCompileInputs.cache
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\TP Nº3\Soria.Federico.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CopyComplete
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\TP Nº3\Soria.Federico.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.dll
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\TP Nº3\Soria.Federico.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.pdb
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP3\Clases Abstractas\bin\Debug\Clases Abstractas.dll
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP3\Clases Abstractas\bin\Debug\Clases Abstractas.pdb
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP3\Clases Abstractas\bin\Debug\Excepciones.dll
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP3\Clases Abstractas\bin\Debug\Excepciones.pdb
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csprojAssemblyReference.cache
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CoreCompileInputs.cache
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CopyComplete
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.dll
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.pdb

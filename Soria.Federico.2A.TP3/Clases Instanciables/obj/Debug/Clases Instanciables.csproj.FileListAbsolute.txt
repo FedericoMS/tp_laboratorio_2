@@ -1,0 +1,26 @@
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\TP Nº3\Soria.Federico.2A.TP3\Clases Instanciables\bin\Debug\Clases Instanciables.dll
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\TP Nº3\Soria.Federico.2A.TP3\Clases Instanciables\bin\Debug\Clases Instanciables.pdb
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\TP Nº3\Soria.Federico.2A.TP3\Clases Instanciables\bin\Debug\Archivos.dll
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\TP Nº3\Soria.Federico.2A.TP3\Clases Instanciables\bin\Debug\Clases Abstractas.dll
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\TP Nº3\Soria.Federico.2A.TP3\Clases Instanciables\bin\Debug\Excepciones.dll
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\TP Nº3\Soria.Federico.2A.TP3\Clases Instanciables\bin\Debug\Archivos.pdb
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\TP Nº3\Soria.Federico.2A.TP3\Clases Instanciables\bin\Debug\Clases Abstractas.pdb
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\TP Nº3\Soria.Federico.2A.TP3\Clases Instanciables\bin\Debug\Excepciones.pdb
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\TP Nº3\Soria.Federico.2A.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csprojAssemblyReference.cache
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\TP Nº3\Soria.Federico.2A.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CoreCompileInputs.cache
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\TP Nº3\Soria.Federico.2A.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CopyComplete
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\TP Nº3\Soria.Federico.2A.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.dll
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\TP Nº3\Soria.Federico.2A.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.pdb
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP3\Clases Instanciables\bin\Debug\Clases Instanciables.dll
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP3\Clases Instanciables\bin\Debug\Clases Instanciables.pdb
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP3\Clases Instanciables\bin\Debug\Archivos.dll
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP3\Clases Instanciables\bin\Debug\Clases Abstractas.dll
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP3\Clases Instanciables\bin\Debug\Excepciones.dll
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP3\Clases Instanciables\bin\Debug\Archivos.pdb
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP3\Clases Instanciables\bin\Debug\Clases Abstractas.pdb
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP3\Clases Instanciables\bin\Debug\Excepciones.pdb
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csprojAssemblyReference.cache
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CoreCompileInputs.cache
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CopyComplete
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.dll
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.pdb

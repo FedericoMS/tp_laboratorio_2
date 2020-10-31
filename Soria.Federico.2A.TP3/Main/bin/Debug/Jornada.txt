@@ -1,0 +1,67 @@
+﻿JORNADA: 
+CLASE DE Programacion POR NOMBRE COMPLETO: Juarez, Roberto
+NACIONALIDAD: Argentino
+
+LEGAJO NÚMERO: 2
+
+CLASES DEL DIA:
+Legislacion
+Programacion
+
+
+NOMBRE COMPLETO: Lopez, Juan
+NACIONALIDAD: Argentino
+
+LEGAJO NÚMERO: 1
+
+ESTADO DE CUENTA: Becado
+TOMA CLASES DE Programacion
+
+
+NOMBRE COMPLETO: Hernandez, Miguel
+NACIONALIDAD: Extranjero
+
+LEGAJO NÚMERO: 4
+
+ESTADO DE CUENTA: AlDia
+TOMA CLASES DE Legislacion
+
+
+NOMBRE COMPLETO: Gonzalez, Carlos
+NACIONALIDAD: Argentino
+
+LEGAJO NÚMERO: 5
+
+ESTADO DE CUENTA: AlDia
+TOMA CLASES DE Programacion
+
+
+NOMBRE COMPLETO: Perez, Juan
+NACIONALIDAD: Argentino
+
+LEGAJO NÚMERO: 6
+
+ESTADO DE CUENTA: Deudor
+TOMA CLASES DE Laboratorio
+
+
+NOMBRE COMPLETO: Suarez, Joaquin
+NACIONALIDAD: Extranjero
+
+LEGAJO NÚMERO: 7
+
+ESTADO DE CUENTA: AlDia
+TOMA CLASES DE Laboratorio
+
+
+NOMBRE COMPLETO: Smith, Rodrigo
+NACIONALIDAD: Argentino
+
+LEGAJO NÚMERO: 8
+
+ESTADO DE CUENTA: AlDia
+TOMA CLASES DE Legislacion
+
+
+<------------------------------>
+
