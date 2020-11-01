@@ -32,8 +32,8 @@ namespace Clases_Instanciables
         public Profesor() 
          {
              this.clasesDelDia = new Queue<EClases>();
-             _randomClases();
-             _randomClases();
+             this._randomClases();
+             this._randomClases();
          }
 
 
@@ -50,27 +50,6 @@ namespace Clases_Instanciables
              Profesor professor = new Profesor();
              this.clasesDelDia = professor.clasesDelDia;
          }
-
-        /* public Profesor() :this (0, "", "", "", default)
-         {
-
-         }
-
-        /// <summary>
-        /// Constructor parametrizado de Profesor
-        /// </summary>
-        /// <param name="id"> de tipo int </param>
-        /// <param name="nombre"> de tipo string </param>
-        /// <param name="apellido"> de tipo string </param>
-        /// <param name="dni"> de tipo string </param>
-        /// <param name="nacionalidad"> de tipo ENacionalidad </param>
-        public Profesor(int id, string nombre, string apellido, string dni, ENacionalidad nacionalidad) : base(id, nombre, apellido, dni, nacionalidad)
-        {
-            this.clasesDelDia = new Queue<EClases>();
-            this._randomClases();
-            this._randomClases();
-        }*/
-
         #endregion
 
         #region Sobrecargas

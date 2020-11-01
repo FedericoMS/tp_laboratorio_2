@@ -150,6 +150,7 @@ namespace Clases_Instanciables
             StringBuilder sb = new StringBuilder();
             sb.AppendLine("JORNADA: ");
             sb.AppendLine($"CLASE DE {this.clase} POR {this.instructor.ToString()}");
+            sb.AppendLine($"ALUMNOS:");
             foreach(Alumno student in this.alumnos)
             {
                 sb.AppendLine(student.ToString());
