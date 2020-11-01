@@ -44,7 +44,6 @@ namespace EntidadesAbstractas
         public static bool operator ==(Universitario pg1, Universitario pg2)
         {
             return pg1.DNI == pg2.DNI || pg1.legajo == pg2.legajo;
-            //return pg1.GetType() == pg2.GetType() && pg1.DNI == pg2.DNI || pg1.legajo == pg2.legajo;
         }
 
         /// <summary>
@@ -80,7 +79,7 @@ namespace EntidadesAbstractas
         /// <summary>
         /// Sobreescritura del Equals
         /// </summary>
-        /// <param name="obj"></param>
+        /// <param name="obj"> de tipo object </param>
         /// <returns >un booleano </returns>
         public override bool Equals(object obj)
         {

@@ -4,18 +4,13 @@ using Clases_Instanciables;
 using EntidadesAbstractas;
 using Archivos;
 using Excepciones;
+
 namespace Test_Unitarios_TP3
 {
     [TestClass]
     public class Tests_TP3
     {
-        /*
-         * 9. Test Unitarios:
-            a. Generar al menos dos métodos de test unitario distintos que validen 
-               que se lancen correctamente excepciones producidas por nuestro código.
-            b. Generar al menos uno que valide se haya instanciado un atributo del tipo 
-               colección en alguna de las clases dadas.
-        */
+        #region Tests Unitarios
         /// <summary>
         /// Testea los atributos de tipo colección en Universidad
         /// </summary>
@@ -76,7 +71,6 @@ namespace Test_Unitarios_TP3
             Alumno a10 = new Alumno(123456, "Juan", "Perez", "98888888", Persona.ENacionalidad.Argentino, Universidad.EClases.Laboratorio, Alumno.EEstadoCuenta.AlDia);
         }
 
-
-
+        #endregion
     }
 }
