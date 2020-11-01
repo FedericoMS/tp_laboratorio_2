@@ -12,6 +12,7 @@ namespace EntidadesAbstractas
         private int legajo;
         #endregion
 
+        #region Constructores
         /// <summary>
         /// Constructor por defecto de Universitario
         /// </summary>
@@ -32,6 +33,7 @@ namespace EntidadesAbstractas
         {
             this.legajo = legajo;
         }
+        #endregion
 
         #region Sobrecargas
 
@@ -58,6 +60,8 @@ namespace EntidadesAbstractas
         }
 
         #endregion
+
+        #region Métodos
         /// <summary>
         /// Método virtual que retorna los datos completos del universitario
         /// </summary>
@@ -90,7 +94,6 @@ namespace EntidadesAbstractas
             }
             return rta;
         }
-
-
+        #endregion
     }
 }

@@ -152,6 +152,7 @@ namespace EntidadesAbstractas
 
         #endregion
 
+        #region Métodos
         /// <summary>
         /// Valida que "dato" sea un número válido para DNI. Caso contrario lanza una excepción
         /// </summary>
@@ -237,10 +238,7 @@ namespace EntidadesAbstractas
 
             return sb.ToString();
         }
-
-
-
-
+        #endregion
 
     }
 }

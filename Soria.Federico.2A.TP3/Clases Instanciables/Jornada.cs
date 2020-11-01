@@ -90,7 +90,6 @@ namespace Clases_Instanciables
 
         #endregion
 
-
         #region Sobrecargas
         /// <summary>
         /// Sobrecarga del ==
