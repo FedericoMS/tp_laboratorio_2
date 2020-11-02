@@ -161,7 +161,7 @@ namespace Clases_Instanciables
         /// <summary>
         /// Método estático Guardar para guardar los datos de la jornada en un txt
         /// </summary>
-        /// <param name="jornada"></param>
+        /// <param name="jornada"> de tipo Jornada </param>
         /// <returns> un booleano </returns>
         public static bool Guardar(Jornada jornada)
         {

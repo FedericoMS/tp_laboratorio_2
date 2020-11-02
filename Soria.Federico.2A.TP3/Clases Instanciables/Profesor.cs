@@ -76,8 +76,8 @@ namespace Clases_Instanciables
         /// <summary>
         /// Sobrecarga del != 
         /// </summary>
-        /// <param name="i"></param>
-        /// <param name="clase"></param>
+        /// <param name="i"> de tipo Profesor </param>
+        /// <param name="clase"> de tipo EClases </param>
         /// <returns></returns>
         public static bool operator !=(Profesor i, EClases clase)
         {
