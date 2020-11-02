@@ -59,7 +59,7 @@ namespace Clases_Instanciables
         /// </summary>
         /// <param name="i"> de tipo Profesor </param>
         /// <param name="clase"> de tipo EClase </param>
-        /// <returns></returns>
+        /// <returns> un booleano </returns>
         public static bool operator ==(Profesor i, EClases clase)
         {
             bool rta = false;
@@ -78,7 +78,7 @@ namespace Clases_Instanciables
         /// </summary>
         /// <param name="i"> de tipo Profesor </param>
         /// <param name="clase"> de tipo EClases </param>
-        /// <returns></returns>
+        /// <returns> un booleano </returns>
         public static bool operator !=(Profesor i, EClases clase)
         {
             return !(i == clase);

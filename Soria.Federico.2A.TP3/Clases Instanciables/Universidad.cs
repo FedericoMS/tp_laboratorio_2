@@ -91,7 +91,7 @@ namespace Clases_Instanciables
         /// <summary>
         /// Indexador de Jornada
         /// </summary>
-        /// <param name="i"> de tipo int</param>
+        /// <param name="i"> de tipo int </param>
         public Jornada this[int i]
         {
             get

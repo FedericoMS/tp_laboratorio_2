@@ -46,7 +46,7 @@ namespace Clases_Instanciables
         /// <param name="nombre"> de tipo string </param>
         /// <param name="apellido"> de tipo string </param>
         /// <param name="dni"> de tipo string </param>
-        /// <param name="nacionalidad"> de tipo ENacionalidad</param>
+        /// <param name="nacionalidad"> de tipo ENacionalidad </param>
         /// <param name="claseQueToma"> de tipo EClases </param>
         /// <param name="estadoCuenta"> de tipo EEstadoCuenta </param>
         public Alumno(int id, string nombre, string apellido, string dni, ENacionalidad nacionalidad, EClases claseQueToma, EEstadoCuenta estadoCuenta) : this(id, nombre, apellido, dni, nacionalidad, claseQueToma)
@@ -84,7 +84,7 @@ namespace Clases_Instanciables
         /// </summary>
         /// <param name="a"> de tipo Alumno </param>
         /// <param name="clase"> de tipo EClases </param>
-        /// <returns></returns>
+        /// <returns> un booleano </returns>
         public static bool operator !=(Alumno a, EClases clase)
         {
             return a.claseQueToma != clase;
