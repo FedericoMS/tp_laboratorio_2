@@ -8,6 +8,9 @@ using System.Threading.Tasks;
 
 namespace Clases_Instanciables
 {
+    /// <summary>
+    /// Clase pública Universidad
+    /// </summary>
     public class Universidad
     {
         #region Atributos

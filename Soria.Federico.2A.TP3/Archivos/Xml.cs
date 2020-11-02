@@ -9,6 +9,10 @@ using System.Xml.Serialization;
 
 namespace Archivos
 {
+    /// <summary>
+    /// Clase pública Xml<T> genérica, que implementa la interfaz IArchivo
+    /// </summary>
+    /// <typeparam name="T"></typeparam>
     public class Xml<T> : IArchivo<T>
     {
         /// <summary>

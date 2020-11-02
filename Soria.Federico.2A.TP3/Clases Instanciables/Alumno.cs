@@ -8,6 +8,9 @@ using static Clases_Instanciables.Universidad;
 
 namespace Clases_Instanciables
 {
+    /// <summary>
+    /// Clase pública sellada Alumno, que deriva de Universitario
+    /// </summary>
     public sealed class Alumno : Universitario
     {
 

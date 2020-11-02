@@ -1,12 +1,12 @@
 ﻿JORNADA: 
-CLASE DE Laboratorio POR NOMBRE COMPLETO: Juarez, Roberto
+CLASE DE Programacion POR NOMBRE COMPLETO: Juarez, Roberto
 NACIONALIDAD: Argentino
 
 LEGAJO NÚMERO: 2
 
 CLASES DEL DIA:
-SPD
-Laboratorio
+Legislacion
+Programacion
 
 
 ALUMNOS:

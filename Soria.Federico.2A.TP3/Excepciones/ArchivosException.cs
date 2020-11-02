@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace Excepciones
 {
+    /// <summary>
+    /// Clase pública ArchivosException, que deriva de Exception
+    /// </summary>
     public class ArchivosException : Exception
     {
         /// <summary>

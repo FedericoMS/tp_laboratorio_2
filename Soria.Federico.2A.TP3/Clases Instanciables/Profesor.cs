@@ -9,6 +9,9 @@ using static Clases_Instanciables.Universidad;
 using EntidadesAbstractas;
 namespace Clases_Instanciables
 {
+    /// <summary>
+    /// Clase sellada y pública Profesor, que deriva de Universitario
+    /// </summary>
     public sealed class Profesor : Universitario
     {
 

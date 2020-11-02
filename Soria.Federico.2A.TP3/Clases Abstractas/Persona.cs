@@ -8,6 +8,9 @@ using Excepciones;
 
 namespace EntidadesAbstractas
 {
+    /// <summary>
+    /// Clase abstracta Persona
+    /// </summary>
     public abstract class Persona
     {
         #region Atributos

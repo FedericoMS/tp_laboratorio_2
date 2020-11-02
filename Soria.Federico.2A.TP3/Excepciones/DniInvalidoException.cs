@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace Excepciones
 {
+    /// <summary>
+    /// Clase pública DniInvalidoException, que deriva de Exception
+    /// </summary>
     public class DniInvalidoException : Exception
     {
         /// <summary>

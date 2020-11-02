@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 using Excepciones;
 namespace Archivos
 {
+    /// <summary>
+    /// Clase pública Texto para Archivos de texto, que implementa la interfaz IArchivo
+    /// </summary>
     public class Texto : IArchivo<string>
     {
         /// <summary>

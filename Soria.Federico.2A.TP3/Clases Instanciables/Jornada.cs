@@ -9,6 +9,9 @@ using static Clases_Instanciables.Universidad;
 
 namespace Clases_Instanciables
 {
+    /// <summary>
+    /// Clase pública Jornada
+    /// </summary>
     public class Jornada
     {
         #region Atributos
