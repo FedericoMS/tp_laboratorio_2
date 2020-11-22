@@ -13,6 +13,7 @@ namespace Entidades
     /// </summary>
     public static class ClaseExtension
     {
+        #region Métodos
         /// <summary>
         /// Método de extensión que valida el ingreso de un string
         /// </summary>
@@ -29,5 +30,6 @@ namespace Entidades
             }
             return dato;
         }
+        #endregion
     }
 }

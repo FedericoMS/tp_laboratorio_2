@@ -44,7 +44,6 @@ namespace Entidades
 
         #endregion
 
-
         #region Propiedades
         /// <summary>
         /// Propiedad de lectura y escritura de Tipo

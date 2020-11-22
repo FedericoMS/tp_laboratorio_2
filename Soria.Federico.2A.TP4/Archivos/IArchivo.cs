@@ -13,6 +13,7 @@ namespace Archivos
     /// <typeparam name="T"> de tipo T genérico </typeparam>
     public interface IArchivo<T>
     {
+        #region Firmas de Métodos
         /// <summary>
         /// Método abstracto Guardar
         /// </summary>
@@ -28,5 +29,6 @@ namespace Archivos
         /// <param name="datos"> de tipo out T genérico </param>
         /// <returns> un bool </returns>
         bool Leer(string archivo, out T datos);
+        #endregion
     }
 }

@@ -14,6 +14,7 @@ namespace Archivos
     /// <typeparam name="T"></typeparam>
     public class Xml<T> : IArchivo<T>
     {
+        #region Métodos
         /// <summary>
         /// Método de instancia Guardar, para guardar un archivo XML
         /// Implementación de Generics y Serialización (tema requerido por la consigna del TP Nº4)
@@ -65,5 +66,6 @@ namespace Archivos
             }
             return rta;
         }
+        #endregion
     }
 }

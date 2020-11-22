@@ -13,6 +13,7 @@ namespace Archivos
     /// </summary>
     public class Txt : IArchivo<string>
     {
+        #region Métodos
         /// <summary>
         /// Método de instancia que guarda un archivo en formato txt.
         /// Implementación de archivos de texto (tema requerido por la consigna del TP Nº4)
@@ -65,6 +66,7 @@ namespace Archivos
 
             return rta;
         }
+        #endregion
     }
 }
 
