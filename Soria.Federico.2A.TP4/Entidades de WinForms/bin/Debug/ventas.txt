@@ -574,3 +574,95 @@ El empaque del suplemento es: frasco
 
 Precio total de la venta: 1029
 
+********************
+Fecha y hora de la venta: 22/11/2020 20:31:34
+LISTA DE VENTAS
+********************
+ID: 44
+Nombre: dexibuprofeno
+Precio: 666
+
+Tipo de medicamento: analgesico
+Marca de medicamento: elea
+Origen del medicamento: brasil
+
+ID: 46
+Nombre: loratadina
+Precio: 500
+
+Tipo de medicamento: antihistaminico
+Marca de medicamento: raffo
+Origen del medicamento: argentina
+
+ID: 47
+Nombre: paracetamol
+Precio: 450
+
+Tipo de medicamento: analgesico
+Marca de medicamento: bayer
+Origen del medicamento: alemania
+
+ID: 50
+Nombre: diclofenac
+Precio: 1000
+
+Tipo de medicamento: analgesico
+Marca de medicamento: bayer
+Origen del medicamento: alemania
+
+ID: 43
+Nombre: ibuprofeno
+Precio: 234
+
+Tipo de medicamento: analgesico
+Marca de medicamento: gador
+Origen del medicamento: alemania
+
+Precio total de la venta: 2850
+
+********************
+Fecha y hora de la venta: 22/11/2020 20:40:59
+LISTA DE VENTAS
+********************
+ID: 44
+Nombre: antioxidantes
+Precio: 1000
+
+Tipo de suplemento: multivitaminico
+El formato del suplemento es: capsulas
+El empaque del suplemento es: frasco
+
+ID: 43
+Nombre: omega
+Precio: 500
+
+Tipo de suplemento: multivitaminico
+El formato del suplemento es: capsulas
+El empaque del suplemento es: frasco
+
+ID: 42
+Nombre: whey protein
+Precio: 1000
+
+Tipo de suplemento: suplemento
+El formato del suplemento es: polvo
+El empaque del suplemento es: frasco
+
+ID: 41
+Nombre: centrum
+Precio: 1500
+
+Tipo de suplemento: multivitaminico
+El formato del suplemento es: capsulas
+El empaque del suplemento es: frasco
+
+ID: 40
+Nombre: isolated protein 
+Precio: 400
+
+Tipo de suplemento: suplemento
+El formato del suplemento es: polvo
+El empaque del suplemento es: frasco
+
+Precio total de la venta: 4400
+

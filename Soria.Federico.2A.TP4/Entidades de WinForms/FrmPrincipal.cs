@@ -223,7 +223,7 @@ namespace Soria.Federico._2A.TP4
         private void FrmPrincipal_FormClosing(object sender, FormClosingEventArgs e)
         {
 
-            DialogResult result = MessageBox.Show("Se está por cerrar la plataforma de datos y ventas.\n ¿Está seguro de que quiere cerrar el programa?", 
+            DialogResult result = MessageBox.Show("Se está por cerrar la plataforma de datos y ventas.\n ¿Está seguro de que quiere cerrar el programa?",
                                                   "Advertencia", MessageBoxButtons.OKCancel, MessageBoxIcon.Question);
             if (result == DialogResult.Cancel)
             {
@@ -287,7 +287,6 @@ namespace Soria.Federico._2A.TP4
             {
                 MessageBox.Show(ex.Message);
             }
-
         }
 
         /// <summary>
@@ -297,31 +296,34 @@ namespace Soria.Federico._2A.TP4
         /// <param name="e"> de tipo EventArgs </param>
         private void buttonModificarMedicamento_Click(object sender, EventArgs e)
         {
-            int indice = this.dataGridMedicamentos.SelectedRows[0].Index;
-            DataRow fila = this.dtMedicamentos.Rows[indice];
-            Medicamento med = new Medicamento(int.Parse(fila[0].ToString()), fila["nombre"].ToString(),
-                                              fila["tipo"].ToString(), float.Parse(fila["precio"].ToString()),
-                                              fila["marca"].ToString(), fila["origen"].ToString());
 
-            FrmMedicamento frmMed = new FrmMedicamento(med);
-            frmMed.StartPosition = FormStartPosition.CenterScreen;
-
-            try
+            if (this.dataGridMedicamentos.Rows.Count > 0)
             {
-                if (frmMed.ShowDialog() == DialogResult.OK)
+                int indice = this.dataGridMedicamentos.SelectedRows[0].Index;
+                DataRow fila = this.dtMedicamentos.Rows[indice];
+                Medicamento med = new Medicamento(int.Parse(fila[0].ToString()), fila["nombre"].ToString(),
+                                                  fila["tipo"].ToString(), float.Parse(fila["precio"].ToString()),
+                                                  fila["marca"].ToString(), fila["origen"].ToString());
+
+                FrmMedicamento frmMed = new FrmMedicamento(med);
+                frmMed.StartPosition = FormStartPosition.CenterScreen;
+                try
                 {
-                    fila["nombre"] = frmMed.MedicamentoDelForm.Nombre;
-                    fila["tipo"] = frmMed.MedicamentoDelForm.Tipo;
-                    fila["precio"] = frmMed.MedicamentoDelForm.Precio;
-                    fila["marca"] = frmMed.MedicamentoDelForm.Marca;
-                    fila["origen"] = frmMed.MedicamentoDelForm.Origen;
+                    if (frmMed.ShowDialog() == DialogResult.OK)
+                    {
+                        fila["nombre"] = frmMed.MedicamentoDelForm.Nombre;
+                        fila["tipo"] = frmMed.MedicamentoDelForm.Tipo;
+                        fila["precio"] = frmMed.MedicamentoDelForm.Precio;
+                        fila["marca"] = frmMed.MedicamentoDelForm.Marca;
+                        fila["origen"] = frmMed.MedicamentoDelForm.Origen;
+                    }
                 }
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show(ex.Message);
-            }
+                catch (Exception ex)
+                {
+                    MessageBox.Show(ex.Message);
+                }
 
+            }
         }
 
         /// <summary>
@@ -331,17 +333,20 @@ namespace Soria.Federico._2A.TP4
         /// <param name="e"> de tipo EventArgs </param>
         private void buttonEliminarMedicamento_Click(object sender, EventArgs e)
         {
-            int indice = this.dataGridMedicamentos.SelectedRows[0].Index;
-            DataRow fila = this.dtMedicamentos.Rows[indice];
-            Medicamento med = new Medicamento(int.Parse(fila[0].ToString()), fila["nombre"].ToString(),
-                                              fila["tipo"].ToString(), float.Parse(fila["precio"].ToString()),
-                                              fila["marca"].ToString(), fila["origen"].ToString());
-
-            FrmMedicamento frm = new FrmMedicamento(med);
-            frm.StartPosition = FormStartPosition.CenterScreen;
-            if (frm.ShowDialog() == DialogResult.OK && fila.RowState != DataRowState.Deleted)
+            if (this.dataGridMedicamentos.Rows.Count > 0)
             {
-                fila.Delete();
+                int indice = this.dataGridMedicamentos.SelectedRows[0].Index;
+                DataRow fila = this.dtMedicamentos.Rows[indice];
+                Medicamento med = new Medicamento(int.Parse(fila[0].ToString()), fila["nombre"].ToString(),
+                                                  fila["tipo"].ToString(), float.Parse(fila["precio"].ToString()),
+                                                  fila["marca"].ToString(), fila["origen"].ToString());
+
+                FrmMedicamento frm = new FrmMedicamento(med);
+                frm.StartPosition = FormStartPosition.CenterScreen;
+                if (frm.ShowDialog() == DialogResult.OK && fila.RowState != DataRowState.Deleted)
+                {
+                    fila.Delete();
+                }
             }
         }
 
@@ -367,14 +372,12 @@ namespace Soria.Federico._2A.TP4
                     fila["empaque"] = frmSup.SuplementoDelForm.Empaque;
 
                     this.dtSuplementos.Rows.Add(fila);
-
                 }
             }
             catch (Exception ex)
             {
                 MessageBox.Show(ex.Message);
             }
-
         }
 
         /// <summary>
@@ -384,17 +387,20 @@ namespace Soria.Federico._2A.TP4
         /// <param name="e"> de tipo EventArgs </param>
         private void buttonEliminarSuplemento_Click(object sender, EventArgs e)
         {
-            int indice = this.dataGridSuplementos.SelectedRows[0].Index;
-            DataRow fila = this.dtSuplementos.Rows[indice];
-            Suplemento sup = new Suplemento(int.Parse(fila[0].ToString()), fila["nombre"].ToString(),
-                                              fila["tipo"].ToString(), float.Parse(fila["precio"].ToString()),
-                                              fila["formato"].ToString(), fila["empaque"].ToString());
-
-            FrmSuplemento frm = new FrmSuplemento(sup);
-            frm.StartPosition = FormStartPosition.CenterScreen;
-            if (frm.ShowDialog() == DialogResult.OK && fila.RowState != DataRowState.Deleted)
+            if (this.dataGridSuplementos.Rows.Count > 0)
             {
-                fila.Delete();
+                int indice = this.dataGridSuplementos.SelectedRows[0].Index;
+                DataRow fila = this.dtSuplementos.Rows[indice];
+                Suplemento sup = new Suplemento(int.Parse(fila[0].ToString()), fila["nombre"].ToString(),
+                                                  fila["tipo"].ToString(), float.Parse(fila["precio"].ToString()),
+                                                  fila["formato"].ToString(), fila["empaque"].ToString());
+
+                FrmSuplemento frm = new FrmSuplemento(sup);
+                frm.StartPosition = FormStartPosition.CenterScreen;
+                if (frm.ShowDialog() == DialogResult.OK && fila.RowState != DataRowState.Deleted)
+                {
+                    fila.Delete();
+                }
             }
         }
 
@@ -405,28 +411,31 @@ namespace Soria.Federico._2A.TP4
         /// <param name="e"> de tipo EventArgs </param>
         private void buttonModificarSuplemento_Click(object sender, EventArgs e)
         {
-            int indice = this.dataGridSuplementos.SelectedRows[0].Index;
-            DataRow fila = this.dtSuplementos.Rows[indice];
-            Suplemento sup = new Suplemento(int.Parse(fila[0].ToString()), fila["nombre"].ToString(),
-                                              fila["tipo"].ToString(), float.Parse(fila["precio"].ToString()),
-                                              fila["formato"].ToString(), fila["empaque"].ToString());
+            if (this.dataGridSuplementos.Rows.Count > 0)
+            {
+                int indice = this.dataGridSuplementos.SelectedRows[0].Index;
+                DataRow fila = this.dtSuplementos.Rows[indice];
+                Suplemento sup = new Suplemento(int.Parse(fila[0].ToString()), fila["nombre"].ToString(),
+                                                  fila["tipo"].ToString(), float.Parse(fila["precio"].ToString()),
+                                                  fila["formato"].ToString(), fila["empaque"].ToString());
 
-            FrmSuplemento frm = new FrmSuplemento(sup);
-            frm.StartPosition = FormStartPosition.CenterScreen;
-            try
-            {
-                if (frm.ShowDialog() == DialogResult.OK)
+                FrmSuplemento frm = new FrmSuplemento(sup);
+                frm.StartPosition = FormStartPosition.CenterScreen;
+                try
                 {
-                    fila["nombre"] = frm.SuplementoDelForm.Nombre;
-                    fila["tipo"] = frm.SuplementoDelForm.Tipo;
-                    fila["precio"] = frm.SuplementoDelForm.Precio;
-                    fila["formato"] = frm.SuplementoDelForm.Formato;
-                    fila["empaque"] = frm.SuplementoDelForm.Empaque;
+                    if (frm.ShowDialog() == DialogResult.OK)
+                    {
+                        fila["nombre"] = frm.SuplementoDelForm.Nombre;
+                        fila["tipo"] = frm.SuplementoDelForm.Tipo;
+                        fila["precio"] = frm.SuplementoDelForm.Precio;
+                        fila["formato"] = frm.SuplementoDelForm.Formato;
+                        fila["empaque"] = frm.SuplementoDelForm.Empaque;
+                    }
                 }
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show(ex.Message);
+                catch (Exception ex)
+                {
+                    MessageBox.Show(ex.Message);
+                }
             }
         }
 
@@ -450,7 +459,7 @@ namespace Soria.Federico._2A.TP4
                 FrmVender frmVenta = new FrmVender();
                 frmVenta.ContarVentaEvent += ActualizarContadorVentas;
                 frmVenta.ShowDialog();
-                if(frmVenta.DialogResult == DialogResult.Cancel)
+                if (frmVenta.DialogResult == DialogResult.Cancel)
                 {
                     this.VentaFinalizada.Invoke();
                 }
@@ -470,14 +479,14 @@ namespace Soria.Federico._2A.TP4
                 //Serialización desde la grilla de suplementos
                 Stock listaDeSuplementos = new Stock();
                 int index;
-                if (this.dataGridSuplementos.Rows.Count > 0) 
+                if (this.dataGridSuplementos.Rows.Count > 0)
                 {
-                    for(index = 0; index < this.dataGridSuplementos.Rows.Count; index++)
+                    for (index = 0; index < this.dataGridSuplementos.Rows.Count; index++)
                     {
                         Suplemento sup = new Suplemento(int.Parse(this.dataGridSuplementos[0, index].Value.ToString()), this.dataGridSuplementos[1, index].Value.ToString(),
                                   this.dataGridSuplementos[2, index].Value.ToString(), float.Parse(this.dataGridSuplementos[3, index].Value.ToString()),
                                   this.dataGridSuplementos[4, index].Value.ToString(), this.dataGridSuplementos[5, index].Value.ToString());
-                                  listaDeSuplementos += sup;
+                        listaDeSuplementos += sup;
                     }
                     Stock.GuardarXml(listaDeSuplementos, "StockSuplementos.xml");
                     MessageBox.Show("Se ha serializado el stock de suplementos");
@@ -532,7 +541,7 @@ namespace Soria.Federico._2A.TP4
                 rtaMeds = file.Leer("StockMedicamentos.xml", out listaDeMedicamentos);
                 MessageBox.Show(listaDeMedicamentos.ToString());
             }
-            catch(ArchivosException ex)
+            catch (ArchivosException ex)
             {
                 MessageBox.Show(ex.Message);
             }
