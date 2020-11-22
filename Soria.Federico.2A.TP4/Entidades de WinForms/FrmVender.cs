@@ -182,7 +182,7 @@ namespace Soria.Federico._2A.TP4
         private void GenerarTicket()
         {
             Venta<Producto>.Guardar(this.listaDeVentas);
-            MessageBox.Show("Se generó un ticket con la venta realizada!");
+            MessageBox.Show("Se generó un ticket con la venta realizada!\n El mismo se guarda en la ruta predeterminada(...Entidades de WinForms\\bin\\Debug)");
         }
 
         #endregion

@@ -666,3 +666,17 @@ El empaque del suplemento es: frasco
 
 Precio total de la venta: 4400
 
+********************
+Fecha y hora de la venta: 22/11/2020 20:56:46
+LISTA DE VENTAS
+********************
+ID: 51
+Nombre: fede
+Precio: 254
+
+Tipo de medicamento: analgesico
+Marca de medicamento: bayer
+Origen del medicamento: alemania
+
+Precio total de la venta: 254
+
