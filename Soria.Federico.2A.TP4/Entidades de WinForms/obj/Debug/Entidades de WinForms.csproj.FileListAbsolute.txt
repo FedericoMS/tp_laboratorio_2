@@ -1,0 +1,33 @@
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP4\Soria.Federico.2A.TP4\bin\Debug\Soria.Federico.2A.TP4.exe.config
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP4\Soria.Federico.2A.TP4\bin\Debug\Soria.Federico.2A.TP4.exe
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP4\Soria.Federico.2A.TP4\bin\Debug\Soria.Federico.2A.TP4.pdb
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP4\Soria.Federico.2A.TP4\obj\Debug\Entidades de WinForms.csprojAssemblyReference.cache
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP4\Soria.Federico.2A.TP4\obj\Debug\Soria.Federico._2A.TP4.frmPrincipal.resources
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP4\Soria.Federico.2A.TP4\obj\Debug\Soria.Federico._2A.TP4.frmMedicamento.resources
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP4\Soria.Federico.2A.TP4\obj\Debug\Soria.Federico._2A.TP4.Properties.Resources.resources
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP4\Soria.Federico.2A.TP4\obj\Debug\Soria.Federico._2A.TP4.frmSeleccionador.resources
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP4\Soria.Federico.2A.TP4\obj\Debug\Soria.Federico._2A.TP4.frmSuplemento.resources
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP4\Soria.Federico.2A.TP4\obj\Debug\Entidades de WinForms.csproj.GenerateResource.cache
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP4\Soria.Federico.2A.TP4\obj\Debug\Entidades de WinForms.csproj.CoreCompileInputs.cache
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP4\Soria.Federico.2A.TP4\obj\Debug\Soria.Federico.2A.TP4.exe
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP4\Soria.Federico.2A.TP4\obj\Debug\Soria.Federico.2A.TP4.pdb
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP4\Entidades de WinForms\bin\Debug\Soria.Federico.2A.TP4.exe.config
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP4\Entidades de WinForms\bin\Debug\Soria.Federico.2A.TP4.exe
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP4\Entidades de WinForms\bin\Debug\Soria.Federico.2A.TP4.pdb
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP4\Entidades de WinForms\obj\Debug\Entidades de WinForms.csprojAssemblyReference.cache
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP4\Entidades de WinForms\obj\Debug\Soria.Federico._2A.TP4.frmPrincipal.resources
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP4\Entidades de WinForms\obj\Debug\Soria.Federico._2A.TP4.frmMedicamento.resources
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP4\Entidades de WinForms\obj\Debug\Soria.Federico._2A.TP4.Properties.Resources.resources
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP4\Entidades de WinForms\obj\Debug\Soria.Federico._2A.TP4.frmSuplemento.resources
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP4\Entidades de WinForms\obj\Debug\Entidades de WinForms.csproj.GenerateResource.cache
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP4\Entidades de WinForms\obj\Debug\Entidades de WinForms.csproj.CoreCompileInputs.cache
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP4\Entidades de WinForms\obj\Debug\Soria.Federico.2A.TP4.exe
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP4\Entidades de WinForms\obj\Debug\Soria.Federico.2A.TP4.pdb
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP4\Entidades de WinForms\bin\Debug\Entidades.dll
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP4\Entidades de WinForms\bin\Debug\Excepciones.dll
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP4\Entidades de WinForms\bin\Debug\Entidades.pdb
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP4\Entidades de WinForms\bin\Debug\Excepciones.pdb
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP4\Entidades de WinForms\obj\Debug\Entidades de WinForms.csproj.CopyComplete
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP4\Entidades de WinForms\bin\Debug\Archivos.dll
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP4\Entidades de WinForms\bin\Debug\Archivos.pdb
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP4\Entidades de WinForms\obj\Debug\Soria.Federico._2A.TP4.frmVender.resources

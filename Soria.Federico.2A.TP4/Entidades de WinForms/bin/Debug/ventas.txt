@@ -1,0 +1,576 @@
+********************
+Fecha y hora de la venta: 22/11/2020 11:45:25
+LISTA DE VENTAS
+********************
+ID: 23
+Nombre: paracetamol
+Precio: 250
+
+Tipo de medicamento: analgesico
+Marca de medicamento: Bayer
+Origen del medicamento: argentina
+
+ID: 23
+Nombre: proteina
+Precio: 1500
+
+Tipo de suplemento: suplemento
+El formato del suplemento es: polvo
+El empaque del suplemento es: frasco
+
+Precio total de la venta: 1750
+
+********************
+Fecha y hora de la venta: 22/11/2020 12:39:48
+LISTA DE VENTAS
+********************
+ID: 24
+Nombre: ibuprofeno
+Precio: 500
+
+Tipo de medicamento: analgesico
+Marca de medicamento: Bayer
+Origen del medicamento: argentina
+
+Precio total de la venta: 500
+
+********************
+Fecha y hora de la venta: 22/11/2020 12:43:20
+LISTA DE VENTAS
+********************
+ID: 24
+Nombre: omega tres
+Precio: 400
+
+Tipo de suplemento: suplemento
+El formato del suplemento es: polvo
+El empaque del suplemento es: frasco
+
+Precio total de la venta: 400
+
+********************
+Fecha y hora de la venta: 22/11/2020 12:43:23
+LISTA DE VENTAS
+********************
+ID: 24
+Nombre: omega tres
+Precio: 400
+
+Tipo de suplemento: suplemento
+El formato del suplemento es: polvo
+El empaque del suplemento es: frasco
+
+ID: 25
+Nombre: aspirina
+Precio: 500
+
+Tipo de medicamento: analgesico
+Marca de medicamento: Bayer
+Origen del medicamento: argentina
+
+Precio total de la venta: 900
+
+********************
+Fecha y hora de la venta: 22/11/2020 12:47:36
+LISTA DE VENTAS
+********************
+ID: 26
+Nombre: paracetamol
+Precio: 23456
+
+Tipo de medicamento: antihistaminico
+Marca de medicamento: Bayer
+Origen del medicamento: argentina
+
+Precio total de la venta: 23456
+
+********************
+Fecha y hora de la venta: 22/11/2020 12:47:42
+LISTA DE VENTAS
+********************
+ID: 26
+Nombre: paracetamol
+Precio: 23456
+
+Tipo de medicamento: antihistaminico
+Marca de medicamento: Bayer
+Origen del medicamento: argentina
+
+ID: 26
+Nombre: whey protein
+Precio: 2543
+
+Tipo de suplemento: suplemento
+El formato del suplemento es: polvo
+El empaque del suplemento es: frasco
+
+Precio total de la venta: 25999
+
+********************
+Fecha y hora de la venta: 22/11/2020 12:49:27
+LISTA DE VENTAS
+********************
+ID: 27
+Nombre: ibuprofeno
+Precio: 325
+
+Tipo de medicamento: analgesico
+Marca de medicamento: Bayer
+Origen del medicamento: argentina
+
+ID: 25
+Nombre: proteina
+Precio: 3255
+
+Tipo de suplemento: suplemento
+El formato del suplemento es: polvo
+El empaque del suplemento es: frasco
+
+Precio total de la venta: 3580
+
+********************
+Fecha y hora de la venta: 22/11/2020 13:20:10
+LISTA DE VENTAS
+********************
+ID: 30
+Nombre: paracetamol
+Precio: 440
+
+Tipo de medicamento: analgesico
+Marca de medicamento: Bayer
+Origen del medicamento: argentina
+
+ID: 31
+Nombre: clonazepam
+Precio: 235
+
+Tipo de medicamento: antidepresivo
+Marca de medicamento: bayer
+Origen del medicamento: alemania
+
+Precio total de la venta: 675
+
+********************
+Fecha y hora de la venta: 22/11/2020 13:21:39
+LISTA DE VENTAS
+********************
+ID: 32
+Nombre: paracetamol
+Precio: 250
+
+Tipo de medicamento: analgesico
+Marca de medicamento: bayer
+Origen del medicamento: alemania
+
+ID: 31
+Nombre: clonazepam
+Precio: 235
+
+Tipo de medicamento: antidepresivo
+Marca de medicamento: bayer
+Origen del medicamento: alemania
+
+ID: 30
+Nombre: whey protein
+Precio: 500
+
+Tipo de suplemento: suplemento
+El formato del suplemento es: polvo
+El empaque del suplemento es: frasco
+
+ID: 29
+Nombre: centrum
+Precio: 5000
+
+Tipo de suplemento: multivitaminico
+El formato del suplemento es: polvo
+El empaque del suplemento es: frasco
+
+ID: 28
+Nombre: creatina
+Precio: 234
+
+Tipo de suplemento: suplemento
+El formato del suplemento es: polvo
+El empaque del suplemento es: frasco
+
+ID: 27
+Nombre: isolate protein
+Precio: 345
+
+Tipo de suplemento: suplemento
+El formato del suplemento es: polvo
+El empaque del suplemento es: frasco
+
+Precio total de la venta: 6564
+
+********************
+Fecha y hora de la venta: 22/11/2020 13:21:41
+LISTA DE VENTAS
+********************
+ID: 32
+Nombre: paracetamol
+Precio: 250
+
+Tipo de medicamento: analgesico
+Marca de medicamento: bayer
+Origen del medicamento: alemania
+
+ID: 31
+Nombre: clonazepam
+Precio: 235
+
+Tipo de medicamento: antidepresivo
+Marca de medicamento: bayer
+Origen del medicamento: alemania
+
+ID: 30
+Nombre: whey protein
+Precio: 500
+
+Tipo de suplemento: suplemento
+El formato del suplemento es: polvo
+El empaque del suplemento es: frasco
+
+ID: 29
+Nombre: centrum
+Precio: 5000
+
+Tipo de suplemento: multivitaminico
+El formato del suplemento es: polvo
+El empaque del suplemento es: frasco
+
+ID: 28
+Nombre: creatina
+Precio: 234
+
+Tipo de suplemento: suplemento
+El formato del suplemento es: polvo
+El empaque del suplemento es: frasco
+
+ID: 27
+Nombre: isolate protein
+Precio: 345
+
+Tipo de suplemento: suplemento
+El formato del suplemento es: polvo
+El empaque del suplemento es: frasco
+
+Precio total de la venta: 6564
+
+********************
+Fecha y hora de la venta: 22/11/2020 13:21:43
+LISTA DE VENTAS
+********************
+ID: 32
+Nombre: paracetamol
+Precio: 250
+
+Tipo de medicamento: analgesico
+Marca de medicamento: bayer
+Origen del medicamento: alemania
+
+ID: 31
+Nombre: clonazepam
+Precio: 235
+
+Tipo de medicamento: antidepresivo
+Marca de medicamento: bayer
+Origen del medicamento: alemania
+
+ID: 30
+Nombre: whey protein
+Precio: 500
+
+Tipo de suplemento: suplemento
+El formato del suplemento es: polvo
+El empaque del suplemento es: frasco
+
+ID: 29
+Nombre: centrum
+Precio: 5000
+
+Tipo de suplemento: multivitaminico
+El formato del suplemento es: polvo
+El empaque del suplemento es: frasco
+
+ID: 28
+Nombre: creatina
+Precio: 234
+
+Tipo de suplemento: suplemento
+El formato del suplemento es: polvo
+El empaque del suplemento es: frasco
+
+ID: 27
+Nombre: isolate protein
+Precio: 345
+
+Tipo de suplemento: suplemento
+El formato del suplemento es: polvo
+El empaque del suplemento es: frasco
+
+Precio total de la venta: 6564
+
+********************
+Fecha y hora de la venta: 22/11/2020 13:43:57
+LISTA DE VENTAS
+********************
+ID: 33
+Nombre: ibuprofeno
+Precio: 250
+
+Tipo de medicamento: analgesico
+Marca de medicamento: bayer
+Origen del medicamento: alemania
+
+Precio total de la venta: 250
+
+********************
+Fecha y hora de la venta: 22/11/2020 13:44:01
+LISTA DE VENTAS
+********************
+ID: 33
+Nombre: ibuprofeno
+Precio: 250
+
+Tipo de medicamento: analgesico
+Marca de medicamento: bayer
+Origen del medicamento: alemania
+
+Precio total de la venta: 250
+
+********************
+Fecha y hora de la venta: 22/11/2020 13:44:06
+LISTA DE VENTAS
+********************
+ID: 33
+Nombre: ibuprofeno
+Precio: 250
+
+Tipo de medicamento: analgesico
+Marca de medicamento: bayer
+Origen del medicamento: alemania
+
+ID: 31
+Nombre: proteina
+Precio: 500
+
+Tipo de suplemento: suplemento
+El formato del suplemento es: capsulas
+El empaque del suplemento es: blister
+
+Precio total de la venta: 750
+
+********************
+Fecha y hora de la venta: 22/11/2020 13:53:34
+LISTA DE VENTAS
+********************
+ID: 32
+Nombre: proteina
+Precio: 500
+
+Tipo de suplemento: suplemento
+El formato del suplemento es: polvo
+El empaque del suplemento es: frasco
+
+Precio total de la venta: 500
+
+********************
+Fecha y hora de la venta: 22/11/2020 14:34:53
+LISTA DE VENTAS
+********************
+ID: 34
+Nombre: ibuprofeno
+Precio: 400
+
+Tipo de medicamento: analgesico
+Marca de medicamento: bayer
+Origen del medicamento: alemania
+
+Precio total de la venta: 400
+
+********************
+Fecha y hora de la venta: 22/11/2020 14:35:56
+LISTA DE VENTAS
+********************
+ID: 35
+Nombre: centrum
+Precio: 3456
+
+Tipo de suplemento: multivitaminico
+El formato del suplemento es: comprimidos
+El empaque del suplemento es: frasco
+
+Precio total de la venta: 3456
+
+********************
+Fecha y hora de la venta: 22/11/2020 14:36:09
+LISTA DE VENTAS
+********************
+ID: 33
+Nombre: proteina
+Precio: 400
+
+Tipo de suplemento: suplemento
+El formato del suplemento es: polvo
+El empaque del suplemento es: frasco
+
+Precio total de la venta: 400
+
+********************
+Fecha y hora de la venta: 22/11/2020 14:36:14
+LISTA DE VENTAS
+********************
+ID: 33
+Nombre: proteina
+Precio: 400
+
+Tipo de suplemento: suplemento
+El formato del suplemento es: polvo
+El empaque del suplemento es: frasco
+
+ID: 34
+Nombre: creatina
+Precio: 900
+
+Tipo de suplemento: suplemento
+El formato del suplemento es: polvo
+El empaque del suplemento es: frasco
+
+Precio total de la venta: 1300
+
+********************
+Fecha y hora de la venta: 22/11/2020 14:36:19
+LISTA DE VENTAS
+********************
+ID: 33
+Nombre: proteina
+Precio: 400
+
+Tipo de suplemento: suplemento
+El formato del suplemento es: polvo
+El empaque del suplemento es: frasco
+
+ID: 34
+Nombre: creatina
+Precio: 900
+
+Tipo de suplemento: suplemento
+El formato del suplemento es: polvo
+El empaque del suplemento es: frasco
+
+ID: 36
+Nombre: clonazepam
+Precio: 600
+
+Tipo de medicamento: analgesico
+Marca de medicamento: bayer
+Origen del medicamento: alemania
+
+Precio total de la venta: 1900
+
+********************
+Fecha y hora de la venta: 22/11/2020 14:36:22
+LISTA DE VENTAS
+********************
+ID: 33
+Nombre: proteina
+Precio: 400
+
+Tipo de suplemento: suplemento
+El formato del suplemento es: polvo
+El empaque del suplemento es: frasco
+
+ID: 34
+Nombre: creatina
+Precio: 900
+
+Tipo de suplemento: suplemento
+El formato del suplemento es: polvo
+El empaque del suplemento es: frasco
+
+ID: 36
+Nombre: clonazepam
+Precio: 600
+
+Tipo de medicamento: analgesico
+Marca de medicamento: bayer
+Origen del medicamento: alemania
+
+ID: 35
+Nombre: paracetamol
+Precio: 500
+
+Tipo de medicamento: analgesico
+Marca de medicamento: bayer
+Origen del medicamento: alemania
+
+Precio total de la venta: 2400
+
+********************
+Fecha y hora de la venta: 22/11/2020 14:53:36
+LISTA DE VENTAS
+********************
+ID: 38
+Nombre: ibuprofeno
+Precio: 400
+
+Tipo de medicamento: analgesico
+Marca de medicamento: bayer
+Origen del medicamento: alemania
+
+Precio total de la venta: 400
+
+********************
+Fecha y hora de la venta: 22/11/2020 14:53:43
+LISTA DE VENTAS
+********************
+ID: 37
+Nombre: paracetamol
+Precio: 500
+
+Tipo de medicamento: analgesico
+Marca de medicamento: bayer
+Origen del medicamento: alemania
+
+ID: 36
+Nombre: whey protein
+Precio: 900
+
+Tipo de suplemento: suplemento
+El formato del suplemento es: polvo
+El empaque del suplemento es: frasco
+
+Precio total de la venta: 1400
+
+********************
+Fecha y hora de la venta: 22/11/2020 14:56:48
+LISTA DE VENTAS
+********************
+ID: 42
+Nombre: dexibuprofeno
+Precio: 450
+
+Tipo de medicamento: analgesico
+Marca de medicamento: gador
+Origen del medicamento: alemania
+
+ID: 43
+Nombre: ibuprofeno
+Precio: 234
+
+Tipo de medicamento: analgesico
+Marca de medicamento: gador
+Origen del medicamento: alemania
+
+ID: 39
+Nombre: whey protein 
+Precio: 345
+
+Tipo de suplemento: suplemento
+El formato del suplemento es: polvo
+El empaque del suplemento es: frasco
+
+Precio total de la venta: 1029
+

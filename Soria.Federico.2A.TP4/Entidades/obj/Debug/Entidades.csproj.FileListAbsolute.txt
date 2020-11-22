@@ -1,0 +1,11 @@
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP4\Entidades\bin\Debug\Entidades.dll
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP4\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP4\Entidades\obj\Debug\Entidades.dll
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP4\Entidades\obj\Debug\Entidades.pdb
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP4\Entidades\bin\Debug\Excepciones.dll
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP4\Entidades\bin\Debug\Excepciones.pdb
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP4\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP4\Entidades\bin\Debug\Archivos.dll
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP4\Entidades\bin\Debug\Archivos.pdb

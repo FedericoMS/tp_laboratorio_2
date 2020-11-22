@@ -1,0 +1,14 @@
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP4\TestConsola\bin\Debug\TestConsola.exe.config
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP4\TestConsola\bin\Debug\TestConsola.exe
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP4\TestConsola\bin\Debug\TestConsola.pdb
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP4\TestConsola\bin\Debug\Archivos.dll
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP4\TestConsola\bin\Debug\Entidades.dll
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP4\TestConsola\bin\Debug\Excepciones.dll
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP4\TestConsola\bin\Debug\Archivos.pdb
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP4\TestConsola\bin\Debug\Entidades.pdb
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP4\TestConsola\bin\Debug\Excepciones.pdb
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP4\TestConsola\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP4\TestConsola\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP4\TestConsola\obj\Debug\Test.csproj.CopyComplete
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP4\TestConsola\obj\Debug\TestConsola.exe
+C:\Users\fede\source\repos\FedericoMS\tp_laboratorio_2\Soria.Federico.2A.TP4\TestConsola\obj\Debug\TestConsola.pdb
