@@ -56,7 +56,7 @@
             this.dataGridMedicamentos.Location = new System.Drawing.Point(40, 36);
             this.dataGridMedicamentos.Name = "dataGridMedicamentos";
             this.dataGridMedicamentos.Size = new System.Drawing.Size(574, 151);
-            this.dataGridMedicamentos.TabIndex = 10;
+            this.dataGridMedicamentos.TabIndex = 12;
             // 
             // buttonCargarMedicamento
             // 
@@ -64,7 +64,7 @@
             this.buttonCargarMedicamento.Location = new System.Drawing.Point(40, 382);
             this.buttonCargarMedicamento.Name = "buttonCargarMedicamento";
             this.buttonCargarMedicamento.Size = new System.Drawing.Size(130, 25);
-            this.buttonCargarMedicamento.TabIndex = 12;
+            this.buttonCargarMedicamento.TabIndex = 0;
             this.buttonCargarMedicamento.Text = "Cargar medicamento";
             this.buttonCargarMedicamento.UseVisualStyleBackColor = true;
             this.buttonCargarMedicamento.Click += new System.EventHandler(this.buttonCargarMedicamento_Click);
@@ -74,7 +74,7 @@
             this.buttonEliminarMedicamento.Location = new System.Drawing.Point(40, 413);
             this.buttonEliminarMedicamento.Name = "buttonEliminarMedicamento";
             this.buttonEliminarMedicamento.Size = new System.Drawing.Size(130, 25);
-            this.buttonEliminarMedicamento.TabIndex = 13;
+            this.buttonEliminarMedicamento.TabIndex = 1;
             this.buttonEliminarMedicamento.Text = "Eliminar medicamento";
             this.buttonEliminarMedicamento.UseVisualStyleBackColor = true;
             this.buttonEliminarMedicamento.Click += new System.EventHandler(this.buttonEliminarMedicamento_Click);
@@ -84,7 +84,7 @@
             this.SerializarStock.Location = new System.Drawing.Point(344, 382);
             this.SerializarStock.Name = "SerializarStock";
             this.SerializarStock.Size = new System.Drawing.Size(130, 25);
-            this.SerializarStock.TabIndex = 14;
+            this.SerializarStock.TabIndex = 6;
             this.SerializarStock.Text = "Serializar stock XML";
             this.SerializarStock.UseVisualStyleBackColor = true;
             this.SerializarStock.Click += new System.EventHandler(this.buttonSerializarStock_Click);
@@ -94,7 +94,7 @@
             this.buttonModificarMedicamento.Location = new System.Drawing.Point(40, 445);
             this.buttonModificarMedicamento.Name = "buttonModificarMedicamento";
             this.buttonModificarMedicamento.Size = new System.Drawing.Size(130, 24);
-            this.buttonModificarMedicamento.TabIndex = 15;
+            this.buttonModificarMedicamento.TabIndex = 2;
             this.buttonModificarMedicamento.Text = "Modificar medicamento";
             this.buttonModificarMedicamento.UseVisualStyleBackColor = true;
             this.buttonModificarMedicamento.Click += new System.EventHandler(this.buttonModificarMedicamento_Click);
@@ -104,7 +104,7 @@
             this.Sincronizar.Location = new System.Drawing.Point(344, 445);
             this.Sincronizar.Name = "Sincronizar";
             this.Sincronizar.Size = new System.Drawing.Size(130, 25);
-            this.Sincronizar.TabIndex = 16;
+            this.Sincronizar.TabIndex = 8;
             this.Sincronizar.Text = "Sincronizar con BD";
             this.Sincronizar.UseVisualStyleBackColor = true;
             this.Sincronizar.Click += new System.EventHandler(this.buttonSincronizar_Click);
@@ -117,7 +117,7 @@
             this.buttonVender.Location = new System.Drawing.Point(496, 382);
             this.buttonVender.Name = "buttonVender";
             this.buttonVender.Size = new System.Drawing.Size(118, 56);
-            this.buttonVender.TabIndex = 17;
+            this.buttonVender.TabIndex = 9;
             this.buttonVender.Text = "Ingresar a ventas";
             this.buttonVender.UseVisualStyleBackColor = false;
             this.buttonVender.Click += new System.EventHandler(this.buttonVender_Click);
@@ -148,7 +148,7 @@
             this.dataGridSuplementos.Location = new System.Drawing.Point(40, 225);
             this.dataGridSuplementos.Name = "dataGridSuplementos";
             this.dataGridSuplementos.Size = new System.Drawing.Size(574, 151);
-            this.dataGridSuplementos.TabIndex = 21;
+            this.dataGridSuplementos.TabIndex = 13;
             // 
             // CargarSuplemento
             // 
@@ -156,7 +156,7 @@
             this.CargarSuplemento.Location = new System.Drawing.Point(195, 382);
             this.CargarSuplemento.Name = "CargarSuplemento";
             this.CargarSuplemento.Size = new System.Drawing.Size(130, 25);
-            this.CargarSuplemento.TabIndex = 22;
+            this.CargarSuplemento.TabIndex = 3;
             this.CargarSuplemento.Text = "Cargar suplemento";
             this.CargarSuplemento.UseVisualStyleBackColor = true;
             this.CargarSuplemento.Click += new System.EventHandler(this.buttonCargarSuplemento_Click);
@@ -167,7 +167,7 @@
             this.EliminarSuplemento.Location = new System.Drawing.Point(195, 413);
             this.EliminarSuplemento.Name = "EliminarSuplemento";
             this.EliminarSuplemento.Size = new System.Drawing.Size(130, 25);
-            this.EliminarSuplemento.TabIndex = 23;
+            this.EliminarSuplemento.TabIndex = 4;
             this.EliminarSuplemento.Text = "Eliminar suplemento";
             this.EliminarSuplemento.UseVisualStyleBackColor = true;
             this.EliminarSuplemento.Click += new System.EventHandler(this.buttonEliminarSuplemento_Click);
@@ -178,7 +178,7 @@
             this.ModificarSuplemento.Location = new System.Drawing.Point(195, 445);
             this.ModificarSuplemento.Name = "ModificarSuplemento";
             this.ModificarSuplemento.Size = new System.Drawing.Size(130, 25);
-            this.ModificarSuplemento.TabIndex = 24;
+            this.ModificarSuplemento.TabIndex = 5;
             this.ModificarSuplemento.Text = "Modificar suplemento";
             this.ModificarSuplemento.UseVisualStyleBackColor = true;
             this.ModificarSuplemento.Click += new System.EventHandler(this.buttonModificarSuplemento_Click);
@@ -208,7 +208,7 @@
             this.buttonDeserializar.Location = new System.Drawing.Point(344, 413);
             this.buttonDeserializar.Name = "buttonDeserializar";
             this.buttonDeserializar.Size = new System.Drawing.Size(130, 25);
-            this.buttonDeserializar.TabIndex = 27;
+            this.buttonDeserializar.TabIndex = 7;
             this.buttonDeserializar.Text = "Deserializar stock";
             this.buttonDeserializar.UseVisualStyleBackColor = true;
             this.buttonDeserializar.Click += new System.EventHandler(this.buttonDeserializar_Click);
@@ -220,7 +220,7 @@
             this.labelContador.Location = new System.Drawing.Point(624, 454);
             this.labelContador.Name = "labelContador";
             this.labelContador.Size = new System.Drawing.Size(16, 16);
-            this.labelContador.TabIndex = 28;
+            this.labelContador.TabIndex = 11;
             this.labelContador.Text = "0";
             // 
             // labelVentas
@@ -230,7 +230,7 @@
             this.labelVentas.Location = new System.Drawing.Point(493, 453);
             this.labelVentas.Name = "labelVentas";
             this.labelVentas.Size = new System.Drawing.Size(125, 15);
-            this.labelVentas.TabIndex = 29;
+            this.labelVentas.TabIndex = 10;
             this.labelVentas.Text = "Ventas realizadas:";
             // 
             // FrmPrincipal
