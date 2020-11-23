@@ -82,22 +82,23 @@ namespace Entidades
             sb.AppendLine("-----------------");
             return sb.ToString();
         }
-
-        #endregion
-
+       
         /// <summary>
         /// Método estático guardar, que guarda un archivo XML con los datos de Stock
         /// </summary>
         /// <param name="storage"> de tipo Stock </param>
         /// <returns> un booleano </returns>
         public static bool GuardarXml(Stock storage, string nombre)
-          {
+        {
               bool rta = false;
               Xml<Stock> archive = new Xml<Stock>();
               rta = archive.Guardar(nombre, storage);
 
               return rta;
-          }
+        }
+
+        #endregion
+
 
     }
 }
