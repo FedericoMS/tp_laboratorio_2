@@ -13,6 +13,7 @@ namespace TestsUnitarios
     [TestClass]
     public class TestsUnitarios
     {
+        #region Métodos
         /// <summary>
         /// Test que prueba el lanzamiento de la excepción PrecioInvalidoException
         /// </summary>
@@ -56,5 +57,6 @@ namespace TestsUnitarios
             storage += sup;
             Assert.IsTrue(storage.Deposito.Contains(sup));
         }
+        #endregion
     }
 }

@@ -12,6 +12,7 @@ namespace Excepciones
     /// </summary>
     public class PrecioInvalidoException : Exception
     {
+        #region Constructores
         /// <summary>
         /// Constructor de PrecioInvalidoException, que recibe como parámetro un string
         /// </summary>
@@ -20,5 +21,7 @@ namespace Excepciones
         {
 
         }
+
+        #endregion
     }
 }

@@ -392,8 +392,8 @@ namespace Soria.Federico._2A.TP4
                 int indice = this.dataGridSuplementos.SelectedRows[0].Index;
                 DataRow fila = this.dtSuplementos.Rows[indice];
                 Suplemento sup = new Suplemento(int.Parse(fila[0].ToString()), fila["nombre"].ToString(),
-                                                  fila["tipo"].ToString(), float.Parse(fila["precio"].ToString()),
-                                                  fila["formato"].ToString(), fila["empaque"].ToString());
+                                                fila["tipo"].ToString(), float.Parse(fila["precio"].ToString()),
+                                                fila["formato"].ToString(), fila["empaque"].ToString());
 
                 FrmSuplemento frm = new FrmSuplemento(sup);
                 frm.StartPosition = FormStartPosition.CenterScreen;
@@ -416,8 +416,8 @@ namespace Soria.Federico._2A.TP4
                 int indice = this.dataGridSuplementos.SelectedRows[0].Index;
                 DataRow fila = this.dtSuplementos.Rows[indice];
                 Suplemento sup = new Suplemento(int.Parse(fila[0].ToString()), fila["nombre"].ToString(),
-                                                  fila["tipo"].ToString(), float.Parse(fila["precio"].ToString()),
-                                                  fila["formato"].ToString(), fila["empaque"].ToString());
+                                                fila["tipo"].ToString(), float.Parse(fila["precio"].ToString()),
+                                                fila["formato"].ToString(), fila["empaque"].ToString());
 
                 FrmSuplemento frm = new FrmSuplemento(sup);
                 frm.StartPosition = FormStartPosition.CenterScreen;
@@ -484,8 +484,8 @@ namespace Soria.Federico._2A.TP4
                     for (index = 0; index < this.dataGridSuplementos.Rows.Count; index++)
                     {
                         Suplemento sup = new Suplemento(int.Parse(this.dataGridSuplementos[0, index].Value.ToString()), this.dataGridSuplementos[1, index].Value.ToString(),
-                                  this.dataGridSuplementos[2, index].Value.ToString(), float.Parse(this.dataGridSuplementos[3, index].Value.ToString()),
-                                  this.dataGridSuplementos[4, index].Value.ToString(), this.dataGridSuplementos[5, index].Value.ToString());
+                                                        this.dataGridSuplementos[2, index].Value.ToString(), float.Parse(this.dataGridSuplementos[3, index].Value.ToString()),
+                                                        this.dataGridSuplementos[4, index].Value.ToString(), this.dataGridSuplementos[5, index].Value.ToString());
                         listaDeSuplementos += sup;
                     }
                     Stock.GuardarXml(listaDeSuplementos, "StockSuplementos.xml");

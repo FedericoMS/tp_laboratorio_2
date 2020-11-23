@@ -680,3 +680,67 @@ Origen del medicamento: alemania
 
 Precio total de la venta: 254
 
+********************
+Fecha y hora de la venta: 22/11/2020 22:16:44
+LISTA DE VENTAS
+********************
+ID: 52
+Nombre: paracetamol
+Precio: 500
+
+Tipo de medicamento: analgesico
+Marca de medicamento: bayer
+Origen del medicamento: alemania
+
+Precio total de la venta: 500
+
+********************
+Fecha y hora de la venta: 22/11/2020 22:16:49
+LISTA DE VENTAS
+********************
+ID: 52
+Nombre: paracetamol
+Precio: 500
+
+Tipo de medicamento: analgesico
+Marca de medicamento: bayer
+Origen del medicamento: alemania
+
+ID: 45
+Nombre: proteina
+Precio: 500
+
+Tipo de suplemento: suplemento
+El formato del suplemento es: capsulas
+El empaque del suplemento es: blister
+
+Precio total de la venta: 1000
+
+********************
+Fecha y hora de la venta: 22/11/2020 22:17:37
+LISTA DE VENTAS
+********************
+ID: 53
+Nombre: paracetamol
+Precio: 500
+
+Tipo de medicamento: analgesico
+Marca de medicamento: bayer
+Origen del medicamento: alemania
+
+Precio total de la venta: 500
+
+********************
+Fecha y hora de la venta: 22/11/2020 22:18:13
+LISTA DE VENTAS
+********************
+ID: 54
+Nombre: paracetamol
+Precio: 1000
+
+Tipo de medicamento: analgesico
+Marca de medicamento: bayer
+Origen del medicamento: alemania
+
+Precio total de la venta: 1000
+

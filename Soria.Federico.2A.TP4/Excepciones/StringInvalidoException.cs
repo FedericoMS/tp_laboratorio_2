@@ -12,6 +12,7 @@ namespace Excepciones
     /// </summary>
     public class StringInvalidoException : Exception
     {
+        #region Constructores
         /// <summary>
         /// Constructor de StringInvalidoException, que recibe como parámetro un string
         /// </summary>
@@ -20,5 +21,7 @@ namespace Excepciones
         {
 
         }
+
+        #endregion
     }
 }

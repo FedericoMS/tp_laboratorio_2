@@ -106,8 +106,8 @@ namespace Soria.Federico._2A.TP4
                         {
                             index = dataGridSuplementos.CurrentRow.Index;
                             Suplemento sup = new Suplemento(int.Parse(this.dataGridSuplementos[0, index].Value.ToString()), this.dataGridSuplementos[1, index].Value.ToString(),
-                                                              this.dataGridSuplementos[2, index].Value.ToString(), float.Parse(this.dataGridSuplementos[3, index].Value.ToString()),
-                                                              this.dataGridSuplementos[4, index].Value.ToString(), this.dataGridSuplementos[5, index].Value.ToString());
+                                                            this.dataGridSuplementos[2, index].Value.ToString(), float.Parse(this.dataGridSuplementos[3, index].Value.ToString()),
+                                                            this.dataGridSuplementos[4, index].Value.ToString(), this.dataGridSuplementos[5, index].Value.ToString());
                             this.listaDeVentas += sup;
                             dataGridSuplementos.Rows.Remove(row);
                         }
@@ -182,7 +182,7 @@ namespace Soria.Federico._2A.TP4
         private void GenerarTicket()
         {
             Venta<Producto>.Guardar(this.listaDeVentas);
-            MessageBox.Show("Se generó un ticket con la venta realizada!\n El mismo se guarda en la ruta predeterminada(...Entidades de WinForms\\bin\\Debug)");
+            MessageBox.Show("Se generó un ticket con la venta realizada! El mismo se guarda en la ruta predeterminada((...)Entidades de WinForms\\bin\\Debug)");
         }
 
         #endregion

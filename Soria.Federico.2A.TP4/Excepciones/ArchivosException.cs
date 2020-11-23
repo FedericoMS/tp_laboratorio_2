@@ -12,6 +12,7 @@ namespace Excepciones
     /// </summary>
     public class ArchivosException : Exception
     {
+        #region Constructores
         /// <summary>
         /// Constructor de ArchivosException, que recibe como parámetro un string 
         /// </summary>
@@ -30,5 +31,7 @@ namespace Excepciones
         {
 
         }
+
+        #endregion
     }
 }

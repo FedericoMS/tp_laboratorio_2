@@ -77,7 +77,7 @@ namespace Soria.Federico._2A.TP4
                 }
 
             this.medicamento = new Medicamento(idMed, this.txtNombre.Text, this.comboTipo.Text, 
-                                              float.Parse(this.txtPrecio.Text), this.comboMarca.Text, this.comboOrigen.Text);
+                                               float.Parse(this.txtPrecio.Text), this.comboMarca.Text, this.comboOrigen.Text);
 
             this.DialogResult = DialogResult.OK;
 

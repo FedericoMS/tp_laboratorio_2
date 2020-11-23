@@ -80,7 +80,8 @@ namespace Soria.Federico._2A.TP4
                     idSup = this.suplemento.ID;
                 }
 
-                this.suplemento = new Suplemento(idSup, this.txtNombreSup.Text, this.comboTipo.Text, float.Parse(this.txtPrecio.Text), this.comboFormato.Text, this.comboEmpaque.Text);
+                this.suplemento = new Suplemento(idSup, this.txtNombreSup.Text, this.comboTipo.Text, 
+                                                 float.Parse(this.txtPrecio.Text), this.comboFormato.Text, this.comboEmpaque.Text);
 
 
             this.DialogResult = DialogResult.OK;
